@@ -14,6 +14,6 @@ I'm a student at [HEG](https://www.hesge.ch/heg/)
 
 ---
 
-### 📬 How to reach me
+### 📬 &nbsp;How to reach me
 
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a> &nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a> &nbsp;
