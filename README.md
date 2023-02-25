@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/img/master/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
+## Hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/main/img/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
 
 ### 🚀 &nbsp;About me
 
