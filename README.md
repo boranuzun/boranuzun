@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/img/master/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
 
-<!--
-**boranuzun/boranuzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 &nbsp;About me
 
-Here are some ideas to get you started:
+I'm a student at [HEG](https://www.hesge.ch/heg/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows&logoColor=fff&style=flat)&nbsp; ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&logoColor=fff&style=flat)&nbsp;
+
+<!--![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)-->
+
+---
+
+### 📬 How to reach me
+
+<a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a> &nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a> &nbsp;
