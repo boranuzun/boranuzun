@@ -26,10 +26,6 @@ I'm a student at [HEG](https://www.hesge.ch/heg/)
 ![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows&style=flat)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&style=flat)&nbsp;
 
-<!--
-Still learning:
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;-->
-
 ---
 
 ### 📬 &nbsp;How to reach me
