@@ -2,7 +2,7 @@
 
 ### ✨ &nbsp;about me
 
-I'm a student at [HEG](https://www.hesge.ch/heg/)
+*i'm a student at [HEG](https://www.hesge.ch/heg/)*
 
 ---
 
@@ -32,6 +32,6 @@ Still learning:
 
 ---
 
-### 📬 &nbsp;How to reach me
+### 📬 &nbsp;how to reach me
 
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a> &nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a> &nbsp;
