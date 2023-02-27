@@ -1,12 +1,12 @@
-## hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/main/img/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
+## Hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/main/img/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
 
-### ✨ &nbsp;about me
+### ✨ &nbsp;About me
 
-*i'm a student at [HEG](https://www.hesge.ch/heg/)*
+I'm a student at [HEG](https://www.hesge.ch/heg/)
 
 ---
 
-### 🌱 &nbsp;currently learning
+### 🌱 &nbsp;Currently learning
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)&nbsp;
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠 &nbsp;tech stack
+### 🛠 &nbsp;Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,6 +32,6 @@ Still learning:
 
 ---
 
-### 📬 &nbsp;how to reach me
+### 📬 &nbsp;How to reach me
 
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a> &nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a> &nbsp;
