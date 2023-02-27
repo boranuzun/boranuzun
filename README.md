@@ -1,12 +1,12 @@
-## Hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/main/img/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
+## hey <img src="https://raw.githubusercontent.com/boranuzun/boranuzun/main/img/hi.gif" width="29px">, I'm [Boran UZUN](https://www.linkedin.com/in/boranuzun/)
 
-### ✨ &nbsp;About me
+### ✨ &nbsp;about me
 
 I'm a student at [HEG](https://www.hesge.ch/heg/)
 
 ---
 
-### 🌱 &nbsp;Currently learning
+### 🌱 &nbsp;currently learning
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash)&nbsp;
@@ -16,7 +16,7 @@ I'm a student at [HEG](https://www.hesge.ch/heg/)
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;tech stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
