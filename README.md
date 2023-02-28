@@ -39,6 +39,11 @@ if __name__ == '__main__':
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows&style=flat)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&style=flat)&nbsp;
+![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat)&nbsp;
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-05122A?logo=notion&style=flat)&nbsp;
+![Obsidian](https://img.shields.io/badge/Obsidian-05122A?logo=obsidian&style=flat)&nbsp;
+![Todoist](https://img.shields.io/badge/Todoist-05122A?logo=todoist&style=flat)&nbsp;
 
 </details>
 
@@ -47,5 +52,5 @@ if __name__ == '__main__':
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a>&nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a>
 
 <div align="right">
-    <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='140px'>
+    <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='0'>
 </div>
