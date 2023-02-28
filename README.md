@@ -35,12 +35,12 @@ if __name__ == '__main__':
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?logo=markdown&style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Terminal](https://img.shields.io/badge/Terminal-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Terminal](https://img.shields.io/badge/Terminal-05122A?style=flat&logo=gnu-bash&logoColor=61c96d)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat)&nbsp;
-![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat)&nbsp;
+![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat&logoColor=ce4722)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-05122A?logo=notion&style=flat)&nbsp;
-![Obsidian](https://img.shields.io/badge/Obsidian-05122A?logo=obsidian&style=flat)&nbsp;
+![Obsidian](https://img.shields.io/badge/Obsidian-05122A?logo=obsidian&style=flat&logoColor=7666c6)&nbsp;
 ![Todoist](https://img.shields.io/badge/Todoist-05122A?logo=todoist&style=flat)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows&style=flat)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&style=flat)&nbsp;
