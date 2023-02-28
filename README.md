@@ -1,4 +1,4 @@
-## Hi there <img src="./img/hi.gif" width="29px">, I'm Boran
+## Hi there <img src="./img/hi.gif" width="29px">,&nbsp; I'm Boran
 
 ```python
 class BoranUzun:
