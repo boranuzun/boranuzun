@@ -4,8 +4,8 @@
 class BoranUzun:
 
 	def __init__(self):
-		self.username = 'boranuzun'
 		self.name = 'Boran UZUN'
+		self.username = 'boranuzun'
 		self.web = 'https://www.boranuzun.ch'
 		self.occupation = 'Student at HEG'
 
