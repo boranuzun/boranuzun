@@ -62,5 +62,5 @@ if __name__ == '__main__':
 
 <!-- Trying out various profile counters -->
 <div align="center">
-    <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='100'><img alt ='analytics2' src='https://komarev.com/ghpvc/?username=boranuzun&color=05122A&style=flat' width='100'>
+    <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='0'><img alt ='analytics2' src='https://komarev.com/ghpvc/?username=boranuzun&color=05122A&style=flat' width='0'>
 </div>
