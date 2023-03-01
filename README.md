@@ -18,7 +18,7 @@ if __name__ == '__main__':
 ```
 
 <details>
-	<summary><b>🌱 Currently Learning</b></summary>
+	<summary><b>🌱 Currently learning</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -60,6 +60,11 @@ if __name__ == '__main__':
 
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a>&nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a>
 
+<!-- Trying out various profile counters -->
 <div align="right">
     <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='0'>
+</div>
+
+<div align="right">
+	<img alt ='analytics2' src='https://komarev.com/ghpvc/?username=boranuzun&color=05122A&style=flat' width='0'>
 </div>
