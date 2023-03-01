@@ -8,6 +8,7 @@ class BoranUzun:
 		self.username = 'boranuzun'
 		self.web = 'https://www.boranuzun.ch'
 		self.occupation = 'Student at HEG'
+		self.spoken_language = ['fr_FR', 'en_US', 'tr_TR']
 
 	def __str__(self):
 		return self.name
