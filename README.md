@@ -62,6 +62,7 @@ if __name__ == '__main__':
 <a href="https://www.linkedin.com/in/boranuzun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"/></a>&nbsp; <a href="mailto:boran.u3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" /></a>
 
 <!-- Trying out various profile counters -->
-<div align="center">
+<!-- Comment out because of bugs-->
+<!-- <div align="center">
     <img alt='analytics' src='https://profile-counter.glitch.me/boranuzun/count.svg' width='0'><img alt ='analytics2' src='https://komarev.com/ghpvc/?username=boranuzun&color=05122A&style=flat' width='0'>
-</div>
+</div> -->
