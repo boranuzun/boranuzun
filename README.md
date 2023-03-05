@@ -21,10 +21,12 @@ if __name__ == '__main__':
 	<summary><b>🌱 Currently learning</b></summary>
 <br>
 
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?logo=css3&logoColor=1572B6&style=flat)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?logo=figma&logoColor=F24E1E&style=flat)&nbsp;
 
