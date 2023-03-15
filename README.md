@@ -44,6 +44,7 @@ if __name__ == '__main__':
 ![iTerm2](https://img.shields.io/badge/iTerm2-05122A?logo=iterm2&style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-05122A?logo=canva&logoColor=58C1CA&style=flat)&nbsp;
 ![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat&logoColor=ce4722)&nbsp;
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-05122A?logo=diagramsdotnet&logoColor=F08705&style=flat)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-05122A?logo=trello&logoColor=0052CC&style=flat)&nbsp;
