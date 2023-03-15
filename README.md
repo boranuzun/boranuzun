@@ -40,7 +40,6 @@ if __name__ == '__main__':
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?logo=markdown&style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Terminal](https://img.shields.io/badge/Terminal-05122A?style=flat&logo=gnometerminal)&nbsp;
 ![iTerm2](https://img.shields.io/badge/iTerm2-05122A?logo=iterm2&style=flat)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
