@@ -21,7 +21,6 @@ if __name__ == '__main__':
 	<summary><b>🌱 Currently learning</b></summary>
 <br>
 
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
@@ -36,7 +35,9 @@ if __name__ == '__main__':
 <br>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?logo=markdown&style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![iTerm2](https://img.shields.io/badge/iTerm2-05122A?logo=iterm2&style=flat)&nbsp;
