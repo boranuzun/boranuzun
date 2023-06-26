@@ -30,7 +30,7 @@ if __name__ == '__main__':
   <summary><b>🛠️ Languages/Tools I'm using</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=FFFFFF)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-05122A?logo=css3&logoColor=1572B6&style=flat)&nbsp;
@@ -45,15 +45,13 @@ if __name__ == '__main__':
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-05122A?logo=canva&logoColor=58C1CA&style=flat)&nbsp;
 ![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat&logoColor=ce4722)&nbsp;
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-05122A?logo=diagramsdotnet&logoColor=F08705&style=flat)&nbsp;
-![XAMPP](https://img.shields.io/badge/XAMPP-05122A?logo=xampp&logoColor=FB7A24&style=flat)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-05122A?logo=notion&style=flat)&nbsp;
 ![Alfred](https://img.shields.io/badge/Alfred-05122A?logo=alfred&logoColor=5C1F87&style=flat)&nbsp;
 ![Homebrew](https://img.shields.io/badge/Homebrew-05122A?logo=homebrew&logoColor=FBB040&style=flat)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows11&style=flat)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&style=flat)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows11&style=flat)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?logo=linux&logoColor=FFFFFF&style=flat)&nbsp;
 
 </details>
