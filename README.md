@@ -21,6 +21,7 @@ if __name__ == '__main__':
 	<summary><b>🌱 Currently learning</b></summary>
 <br>
 
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-05122A?logo=hackthebox&logoColor=9FEF00&style=flat)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-05122A?logo=figma&logoColor=F24E1E&style=flat)&nbsp;
 
@@ -30,22 +31,21 @@ if __name__ == '__main__':
   <summary><b>🛠️ Languages/Tools I'm using</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=fff)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-05122A?logo=css3&logoColor=1572B6&style=flat)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwind%20css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?logo=postman&logoColor=FF6C37&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?logo=markdown&style=flat)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![iTerm2](https://img.shields.io/badge/iTerm2-05122A?logo=iterm2&style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
-![MS Office](https://img.shields.io/badge/Microsoft%20Office-05122A?logo=microsoftoffice&style=flat&logoColor=ce4722)&nbsp;
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-05122A?logo=diagramsdotnet&logoColor=F08705&style=flat)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-05122A?logo=notion&style=flat)&nbsp;
 ![Alfred](https://img.shields.io/badge/Alfred-05122A?logo=alfred&logoColor=5C1F87&style=flat)&nbsp;
