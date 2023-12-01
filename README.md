@@ -48,6 +48,7 @@ if __name__ == '__main__':
 ![Miro](https://img.shields.io/badge/Miro-05122A?logo=miro&style=flat&logoColor=ebc855)&nbsp;
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-05122A?logo=diagramsdotnet&logoColor=F08705&style=flat)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-05122A?logo=notion&style=flat)&nbsp;
+![Raycast](https://img.shields.io/badge/Raycast-05122A?logo=raycast&logoColor=FF6363&style=flat)&nbsp;
 ![Alfred](https://img.shields.io/badge/Alfred-05122A?logo=alfred&logoColor=5C1F87&style=flat)&nbsp;
 ![Homebrew](https://img.shields.io/badge/Homebrew-05122A?logo=homebrew&logoColor=FBB040&style=flat)&nbsp;
 ![macOS](https://img.shields.io/badge/macOS-05122A?logo=macos&style=flat)&nbsp;
