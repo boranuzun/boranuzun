@@ -7,7 +7,8 @@ class BoranUzun:
 		self.name = 'Boran UZUN'
 		self.username = 'boranuzun'
 		self.web = 'https://www.boranuzun.ch'
-		self.occupation = 'Student at HEG'
+		self.degree = 'BSc in Business Information Technology'
+		self.seeking = 'DevOps / Network & Systems positions or internships'
 		self.spoken_languages = ['fr_FR', 'en_US', 'tr_TR']
 
 	def __str__(self):
@@ -21,7 +22,10 @@ if __name__ == '__main__':
 	<summary><b>🌱 Currently learning</b></summary>
 <br>
 
-![NixOS](https://img.shields.io/badge/NixOS-05122A?logo=nixos&style=flat)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?logo=kubernetes&style=flat)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-05122A?logo=terraform&style=flat)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-05122A?logo=ansible&style=flat)&nbsp;
+![RHEL](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-05122A?logo=redhat&style=flat&logoColor=EE0000)&nbsp;
 
 </details>
 
